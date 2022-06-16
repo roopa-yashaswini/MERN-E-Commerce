@@ -1,0 +1,8 @@
+.bottomPopup{
+    position: fixed;
+    bottom: 10px;
+    display: flex;
+    justify-content: right;
+    width: 80%;
+    text-align: center;
+}
